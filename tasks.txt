@@ -1,0 +1,24 @@
+user list -> GET
+user list with given id
+user create
+
+
+user/
+user/id
+
+
+create
+-> serializer ( jo ki postman se json data fetch karke databse me store karega )
+-> crete new user in database
+
+
+
+
+ class based view and function based view
+
+
+
+ model => products
+    api> products list
+    api> products list for given category
+    api> products list for id
